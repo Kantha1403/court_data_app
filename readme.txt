@@ -30,8 +30,9 @@ The system is built with a modular design so it can be easily connected to live 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/court_data_app.git
+git clone https://github.com/Kantha1403/court_data_app.git
 cd court_data_app
 pip install -r requirements.txt
 python app.py
+
 http://127.0.0.1:5000
