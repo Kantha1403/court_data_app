@@ -1,4 +1,4 @@
-# Court Data Fetcher – Internship Task 1
+# Court Data Fetcher 
 
 A Flask-based web application that demonstrates the workflow of fetching and displaying Indian court case details based on user input.  
 The system is built with a modular design so it can be easily connected to live data sources or official court portals.
@@ -36,3 +36,4 @@ pip install -r requirements.txt
 python app.py
 
 http://127.0.0.1:5000
+
